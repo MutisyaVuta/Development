@@ -1,0 +1,7 @@
+hi = "Hello there";
+
+name = "Jane Doe!";
+
+greetings = hi + " " + name
+
+print(greetings);
